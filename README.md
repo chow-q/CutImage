@@ -1,6 +1,8 @@
 # CutImage
 基于ai深度训练的全能抠图工具
 
+docker部署：
+
 docker pull showtim2007/modelscope:1.4.3
 
 基于达摩院BSHM模型的深度训练的全能抠图工具。
