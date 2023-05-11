@@ -9,7 +9,11 @@ docker pull showtim2007/modelscope:1.4.3
 
 运行： docker run --name BSHM -p 8000:5000 -d showtim2007/modelscope:1.4.3 bash -c "cd /opt &&python img.py"
 
-访问：http://ip:8000
+体验地址：
+
+http://ai-img.v-chatgpt.com:8800/
+
+账号：ai-img  密码：ai-img123321
 
 示例1：
 
