@@ -2,7 +2,8 @@
 基于ai深度训练的全能抠图工具
 
 在 Hugging Face 上体验（最方便）
-[![点我](https://img.shields.io/badge/huggingface-transformers-orange)](https://huggingface.co/spaces/chow-q/cut-image)
+
+[![try me](https://img.shields.io/badge/huggingface-transformers-orange)](https://huggingface.co/spaces/chow-q/cut-image)
 
 
 
