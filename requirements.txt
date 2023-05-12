@@ -1,0 +1,11 @@
+datasets==2.*
+fastapi==0.74.*
+requests==2.27.*
+sentencepiece==0.1.*
+torch==1.11.*
+transformers==4.*
+uvicorn[standard]==0.17.*
+modelscope
+tensorflow
+flask
+opencv-python
