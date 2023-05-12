@@ -1,7 +1,7 @@
 # CutImage
 基于ai深度训练的全能抠图工具
 
-在 Hugging Face 上体验（最方便,但是速度比较慢，可以点logs看进度）
+在 Hugging Face 上体验（最方便，但是速度比较慢，可以点logs看进度）
 
 [![try me](https://img.shields.io/badge/huggingface-transformers-orange)](https://huggingface.co/spaces/chow-q/cut-image)
 
